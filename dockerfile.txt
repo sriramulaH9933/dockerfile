@@ -1,0 +1,2 @@
+FROM  ubuntu
+RUN sudo apt-get update && sudo apt install aws-cli
